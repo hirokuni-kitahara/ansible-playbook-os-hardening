@@ -1,0 +1,9 @@
+---
+collections:
+  - name: community.general
+    version: 3.3.2
+    source: https://galaxy.ansible.com
+  - name: devsec.hardening
+    version: 7.12.0
+    source: https://galaxy.ansible.com
+    
