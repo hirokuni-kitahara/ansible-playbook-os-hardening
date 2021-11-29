@@ -19,7 +19,6 @@
     - hostname
     - whoami
     - pwd
-    - cat /etc/passwd
     - python3 -m pip list
     - ansible-galaxy collection list -p .
   register: command_results
