@@ -1,2 +1,6 @@
 collections:
+  # example of valid collection
   - name: devsec.hardening
+
+  # example of invalid collection
+  - name: sindhuparvathi_gopi.ansible_collection_template
