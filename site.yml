@@ -1,3 +1,3 @@
 ---
-# sample change c
+# sample change
 - import_playbook: hosts.yml
