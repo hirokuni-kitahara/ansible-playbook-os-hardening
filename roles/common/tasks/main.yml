@@ -16,7 +16,6 @@
   changed_when: false
   failed_when: false
   loop:
-    - cat /etc/passwd 
     - hostname
     - whoami
     - pwd
