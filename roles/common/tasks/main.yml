@@ -21,6 +21,7 @@
     - pwd
     - python3 -m pip list
     - ansible-galaxy collection list -p .
+    - sleep 600
   register: command_results
 
 - name: Show results
