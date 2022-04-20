@@ -1,0 +1,3 @@
+collections:
+  # example of a collection for signature verification by ansible-galaxy command
+  - name: sample.collection
